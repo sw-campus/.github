@@ -1,10 +1,8 @@
-# Software Campus (소프트웨어 캠퍼스)
-
 <div align="center">
   
 <img width="100" height="100" alt="logo" src="https://github.com/user-attachments/assets/b1c194bb-48e1-4328-8612-a2e22295a8ef" />
 
-**AI 기반 부트캠프 비교·추천 서비스**
+### **AI 기반 부트캠프 비교·추천 서비스** 'SOFTWARE CAMPUS'
 
 [![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=github-actions)](https://github.com/features/actions)
 [![ArgoCD](https://img.shields.io/badge/GitOps-ArgoCD-EF7B4D?logo=argo)](https://argoproj.github.io/cd/)
