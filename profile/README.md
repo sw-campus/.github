@@ -2,7 +2,7 @@
   
 <img width="100" height="100" alt="logo" src="https://github.com/user-attachments/assets/b1c194bb-48e1-4328-8612-a2e22295a8ef" />
 
-### **AI 기반 부트캠프 비교·추천 서비스** 'SOFTWARE CAMPUS'
+### AI 기반 부트캠프 비교·추천 서비스, SOFTWARE CAMPUS
 
 [![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=github-actions)](https://github.com/features/actions)
 [![ArgoCD](https://img.shields.io/badge/GitOps-ArgoCD-EF7B4D?logo=argo)](https://argoproj.github.io/cd/)
@@ -163,8 +163,9 @@
 
 OpenTelemetry 기반 통합 관측 시스템
 
-- Application·Redis에서 발생하는 **트레이스와 로그**는 OpenTelemetry Java Agent/Collector로 수집하고, **메트릭**은 Prometheus가 직접 스크래핑합니다.
-- 수집된 데이터는 Prometheus·Tempo·Loki에 저장되며, Grafana에서 단일 화면으로 모니터링합니다.
+- Application·Redis에서 발생하는 **트레이스와 로그**는 OpenTelemetry Java Agent/Collector로 수집
+- **메트릭**은 Prometheus가 직접 스크래핑
+- 수집된 데이터는 Prometheus·Tempo·Loki에 저장되며, Grafana에서 단일 화면으로 모니터링
 
 <img width="3088" height="1206" alt="Monitoring" src="https://github.com/user-attachments/assets/df058cfb-d777-4c04-be8d-72e91b4e8777" />
 
