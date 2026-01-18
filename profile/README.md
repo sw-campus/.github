@@ -176,7 +176,7 @@ OpenTelemetry 기반 통합 관측 시스템
 | <img src="https://github.com/minji-yoon.png" width="100"/> | <img src="https://github.com/zionge2k.png" width="100"/> | <img src="https://github.com/kkkwp.png" width="100"/> | <img src="https://github.com/kyeonghwi.png" width="100"/> | <img src="https://github.com/Me1onMusk.png" width="100"/> |
 |:---:|:---:|:---:|:---:|:---:|
 | [윤민지](https://github.com/minji-yoon) | [이성](https://github.com/zionge2k) | [정채윤](https://github.com/kkkwp) | [박경휘](https://github.com/kyeonghwi) | [김태영](https://github.com/Me1onMusk) |
-| 팀 리더<br>데브옵스 엔지니어<br>인프라 엔지니어 | 백엔드 개발<br>DBA<br>문서화 담당 | PL(프로젝트 리더)<br>백엔드 개발<br>인프라 엔지니어 | 프론트엔드 개발<br>백엔드 개발<br>DBA | 프론트엔드 개발<br>백엔드 개발 |        
+| 팀 리더<br>데브옵스 엔지니어<br>인프라 엔지니어 | 백엔드 개발<br>DBA<br>문서화 담당 | PL(프로젝트 리더)<br>백엔드 개발<br>인프라 엔지니어 | 프론트엔드 개발<br>백엔드 개발<br>DBA | 프론트엔드 개발 |        
 ---
 
 ## 📞 문의
